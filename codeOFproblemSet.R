@@ -26,6 +26,8 @@ stargazer(ps3dataII, type = "text")
 
 # Question 2 - looking at welfare reforms with ps3dataII
 
+#gggg
+
 ### a) 
 reg1 <- lm(employed ~ social_program, data = ps3dataII)
 summary(reg1)
