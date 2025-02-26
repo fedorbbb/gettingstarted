@@ -28,6 +28,8 @@ stargazer(ps3dataII, type = "text")
 
 #gggg
 
+# another addition
+
 ### a) 
 reg1 <- lm(employed ~ social_program, data = ps3dataII)
 summary(reg1)
